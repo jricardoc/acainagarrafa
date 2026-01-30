@@ -1,0 +1,12 @@
+export { Hero } from "./Hero";
+export { CourseIntro } from "./CourseIntro";
+export { Testimonials } from "./Testimonials";
+export { Modules } from "./Modules";
+export { Bonuses } from "./Bonuses";
+export { Plans } from "./Plans";
+export { Guarantee } from "./Guarantee";
+export { FAQ } from "./FAQ";
+export { FinalCTA } from "./FinalCTA";
+export { Recipes } from './Recipes';
+export { StartNow } from './StartNow';
+export { Countdown } from './Countdown';
