@@ -71,14 +71,15 @@ export function Hero() {
               </div>
 
               <div className="flex items-center justify-center lg:justify-start gap-2">
-                <span className="text-foreground/70 text-sm">por apenas</span>
+                <span className="text-foreground/70 text-sm">a partir de</span>
                 <p className="text-4xl sm:text-5xl md:text-6xl font-black text-gradient-gold">
                   R$9,90
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-accent font-semibold flex items-center justify-center lg:justify-start gap-1">
-                <span>✓</span> Acesso vitalício + Garantia de 15 dias
+                <span>✓</span> Acesso vitalício por R$14,90 + Garantia de 15
+                dias
               </p>
             </div>
 
