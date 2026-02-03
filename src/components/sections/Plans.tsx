@@ -81,13 +81,14 @@ function PaymentSecurity() {
   );
 }
 
+import { redirectToCheckout } from "@/lib/utils";
+
 export function Plans() {
   const handleCheckout = (plan: string, _price: number) => {
     if (plan === "Pro") {
-      window.location.href = "https://pay.hotmart.com/J104173808P?off=6ymc50iy";
+      redirectToCheckout("https://pay.hotmart.com/J104173808P?off=6ymc50iy");
     } else {
-      window.location.href =
-        "https://pay.hotmart.com/J104173808P?checkoutMode=10";
+      redirectToCheckout("https://pay.hotmart.com/J104173808P?checkoutMode=10");
     }
   };
 

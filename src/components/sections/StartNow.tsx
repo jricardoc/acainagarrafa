@@ -1,15 +1,16 @@
 import { Check } from "lucide-react";
 
+import { redirectToCheckout } from "@/lib/utils";
+
 export function StartNow() {
   const handleProCheckout = () => {
     // Analytics + Redirect logic
-    window.location.href = "https://pay.hotmart.com/J104173808P?off=6ymc50iy";
+    redirectToCheckout("https://pay.hotmart.com/J104173808P?off=6ymc50iy");
   };
 
   const handleBasicCheckout = (e: React.MouseEvent) => {
     e.preventDefault();
-    window.location.href =
-      "https://pay.hotmart.com/J104173808P?checkoutMode=10";
+    redirectToCheckout("https://pay.hotmart.com/J104173808P?checkoutMode=10");
   };
 
   const features = [
