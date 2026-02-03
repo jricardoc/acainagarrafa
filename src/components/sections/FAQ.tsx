@@ -7,9 +7,9 @@ import {
 
 const faqs = [
   {
-    question: "Nunca fiz cookies antes, vou conseguir?",
+    question: "Nunca fiz açaí ou sobremesas antes, vou conseguir?",
     answer:
-      "Com certeza! O método foi desenvolvido pensando em quem nunca ligou um forno na vida. Ensinamos do zero absoluto, passo a passo, mostrando exatamente o ponto da massa e os segredos para não errar.",
+      "Com certeza! O método foi desenvolvido pensando em quem nunca vendeu nada na vida. Ensinamos do zero absoluto, passo a passo, mostrando exatamente a montagem e os segredos para o açaí não derreter rápido.",
   },
   {
     question: "Quanto tempo leva para fazer a primeira venda?",
@@ -19,12 +19,12 @@ const faqs = [
   {
     question: "Preciso de equipamentos caros?",
     answer:
-      "Não! Você começa com o que tem em casa: uma bacia, uma colher e um forno (pode ser o do fogão comum). Não precisa de batedeira planetária nem utensílios profissionais para começar faturando.",
+      "Não! Você começa com o que tem em casa: seu liquidificador ou processador, e um freezer comum. Não precisa de maquinário industrial para começar faturando com a Garrafa de Açaí.",
   },
   {
-    question: "Os cookies duram quanto tempo?",
+    question: "Qual a validade do Açaí na Garrafa?",
     answer:
-      "Nossos cookies têm validade de até 10 a 15 dias embalados corretamente (ensinamos como no curso) e a massa crua pode ser congelada por até 3 meses, o que facilita muito sua produção e estoque.",
+      "Nossas garrafas têm alta durabilidade quando armazenadas corretamente no freezer. Ensinamos as técnicas de conservação para que você possa produzir em lote e ter estoque sempre pronto para venda.",
   },
   {
     question: "Tem garantia? E se eu não gostar?",
@@ -37,9 +37,9 @@ const faqs = [
       "No Plano PRO (mais vendido), o acesso é VITALÍCIO! No Plano Básico, o acesso é de 6 meses. Recomendamos o Pro para que você possa sempre consultar as receitas e atualizações.",
   },
   {
-    question: "Quanto posso ganhar vendendo cookies?",
+    question: "Quanto posso ganhar vendendo Açaí na Garrafa?",
     answer:
-      "Isso depende da sua dedicação, mas nossas alunas faturam em média de R$150 a R$350 por dia. Algumas que se dedicam integralmente passam de R$5.000,00 mensais trabalhando de casa.",
+      "Isso depende da sua dedicação, mas nossas alunas faturam em média de R$150 a R$450 por dia. Algumas que se dedicam integralmente passam de R$5.000,00 mensais trabalhando de casa.",
   },
   {
     question: "Como funciona o acesso ao curso?",
